@@ -53,7 +53,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 # Index.html
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -139,7 +139,7 @@ Upload to GitHub Pages for free hosting.
 
 # Index.css
 
-```
+```css
 
 * {
   margin: 0;
@@ -260,7 +260,9 @@ footer {
 
 ## OUTPUT
 
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/0cced11d-d677-4bf3-a830-710489cb65bc" />
 
+<img width="1271" height="571" alt="image" src="https://github.com/user-attachments/assets/3b1a28c3-153c-4ca3-a280-8154e8f8f7df" />
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
